@@ -1,5 +1,3 @@
-
-
 # Arguments to research
 
 - basic of bash
