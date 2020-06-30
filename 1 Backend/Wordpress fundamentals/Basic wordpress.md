@@ -1,6 +1,4 @@
-# Tips for wordpress
-
-
+## Basic knowledge Wordpress
 
 #### get_the vs the_title
 
@@ -30,13 +28,13 @@ it's called something like image_mods
 
 Inc/theme_setup.php
 
-
-
-
-
-### posts
+#### posts
 
 for articles, blogpost, works etc, they are under post! not single pages
 
 and the custom template to modify them is named single.php
+
+
+
+How to show them on the homepage and style them
 
