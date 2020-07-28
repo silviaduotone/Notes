@@ -16,6 +16,10 @@
 
 
 
+https://cssfordesigners.com/articles/things-i-wish-id-known-about-css
+
+
+
  ## pages lost!!
 
 - docker
